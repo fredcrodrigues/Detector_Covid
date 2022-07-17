@@ -7,7 +7,7 @@ Este projeto é baseado em *Machine Learning* e na linguagem de programação py
 
 ## Execução do Projeto
 ```bash
-    tensorflow = 2.4
+    tensorflow = 2.5.0
     opencv-python = 4.6.0
     python = 3.8.8
     numpy = 1.21
