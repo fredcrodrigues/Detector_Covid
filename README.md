@@ -15,7 +15,7 @@ Este projeto é baseado em *Machine Learning* e na linguagem de programação py
 
 A arquitetura para treino e geração do modelo é a VGG-16, metodo de otimização Adam e treinamento em 100 epocas.
 
-## Resusltado do Detector
+## Resultados do Detector
 
 ![Screenshot](/img/Image_detect.png)
 
